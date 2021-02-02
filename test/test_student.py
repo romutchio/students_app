@@ -1,6 +1,6 @@
 import unittest
 from student import Student
-from web.errors import InvalidSexException,\
+from app.errors import InvalidSexException,\
     NotFullNameException, InvalidStudentAge
 
 
